@@ -24,6 +24,23 @@ The goal is to identify customer segments with higher churn risk, understand the
 5. Summarized the findings into business insights and recommendations.
 
 
+## Power BI Dashboard
+
+An interactive Power BI dashboard was developed to present the key customer churn metrics and highlight customer segments associated with elevated churn.
+
+The dashboard includes:
+
+- Total Customers, Churned Customers, and Overall Churn Rate KPIs
+- Churn Rate by Contract Type
+- Churn Rate by Customer Tenure
+- Churn Rate by Internet Service
+- Churn Rate by Payment Method
+- Churn Rate by Monthly Charge Group
+- Average Monthly Charges by Churn Status
+
+![Customer Churn Analysis Dashboard](images/customer_churn_dashboard.jpg)
+
+
 ## Key Business Insights
 
 ### 1. Contract Type
